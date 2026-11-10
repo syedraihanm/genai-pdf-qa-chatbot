@@ -292,4 +292,4 @@ dashboard
 
 ### RESULT:
 
-Thus, a PDF-based Question-Answering Chatbot was successfully developed using LangChain, GPT-4o-mini, OpenAI Embeddings, DocArrayInMemorySearch, ConversationalRetrievalChain, and Panel. The system successfully processes PDF documents, retrieves relevant information, generates context-based answers, maintains conversational history, and displays source documents through an interactive graphical user interface.
+Thus, a PDF-based Question-Answering Chatbot was successfully developed . The system successfully processes PDF documents, retrieves relevant information, generates context-based answers, maintains conversational history.
