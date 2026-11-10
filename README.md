@@ -282,13 +282,10 @@ dashboard
 <img width="1202" height="771" alt="image" src="https://github.com/user-attachments/assets/e61d3909-7644-45d0-8276-540fbae42d23" />
 
 
-<img width="1187" height="750" alt="image" src="https://github.com/user-attachments/assets/00cf3527-dac4-49fd-9074-db47662ff622" />
-
 
 <img width="1167" height="342" alt="image" src="https://github.com/user-attachments/assets/f44d15c6-372f-4e91-9e31-8ae42cb6b905" />
 
 
-<img width="572" height="490" alt="image" src="https://github.com/user-attachments/assets/2768875a-72ee-4ceb-9921-cb70d065bddf" />
 
 ### RESULT:
 
